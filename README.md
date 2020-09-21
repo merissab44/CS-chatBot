@@ -10,4 +10,4 @@ INSTRUCTIONS:
 
 You will be prompted to input your favorite drink , either coffee, latte, frappaccino, or refresher.
 After your response is given, David will spit some knowledge about the baristas or suggestions about when to order the drink.
-You will be asked if you want to input another drink and if yes you will be prompted back to the first question, Otherwise, the program will stop.
+You will be prompted to input another drink until you say " I don't have one " , then the program ends.
